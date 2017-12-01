@@ -1,5 +1,5 @@
 {
-  "name": "publish-subscribe",
+  "name": "publish-subscribe-js",
   "version": "1.0.0",
   "description": "Publish/Subscribe UMD package",
   "main": "./src/PublishSubscribe.js",
