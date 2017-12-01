@@ -1,0 +1,29 @@
+{
+  "name": "publish-subscribe",
+  "version": "1.0.0",
+  "description": "Publish/Subscribe UMD package",
+  "main": "./src/PublishSubscribe.js",
+  "directories": {
+    "src": "src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shystruk/publish-subscribe-js"
+  },
+  "keywords": [
+    "publish",
+    "publisher",
+    "subscribe",
+    "subscriber",
+    "pattern",
+    "publish-subscribe",
+    "publish/subscribe"
+  ],
+  "author": {
+    "name": "Vasyl Stokolosa",
+    "email": "v.stokol@gmail.com",
+    "url": "https://github.com/shystruk"
+  },
+  "license": "MIT",
+  "devDependencies": {}
+}

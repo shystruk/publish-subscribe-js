@@ -1,2 +1,2 @@
-# publish-subscrib-js
+# publish-subscribe
 Publish/Subscribe UMD package 
