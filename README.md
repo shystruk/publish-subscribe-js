@@ -6,7 +6,11 @@ Publish/Subscribe UMD package
 > The Publish/Subscribe pattern encourage us to think hard about the relationships between different parts of our application. They also help us identify what layers containing direct relationships which could instead be replaced with sets of subjects and observers. This effectively could be used to break down an application into smaller, more loosely coupled blocks to improve code management and potentials for re-use. ~ Addy Osmani
 
 ## Getting Publish/Subscribe ##
-`npm i publish-subscribe-js` or `yarn add publish-subscribe-js`
+#### npm
+`npm install --save publish-subscribe-js`
+
+#### yarn
+`yarn add publish-subscribe-js --save`
 
 ## Example ##
 ```javascript
