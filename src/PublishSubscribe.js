@@ -54,8 +54,10 @@
             for (var sub in this.subscribers[topic]) {
                 try {
                     this.subscribers[topic][sub](data, Array.prototype.slice.call(arguments));
-                } catch (error) {
-                    throw error;
+                } catch (e) {
+                    console.log(
+                        Error('Issue with subscriber ' + topic + '. ' + (e && e.message))
+                    );
                 }
             }
         },
