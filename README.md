@@ -1,5 +1,5 @@
 # Publish/Subscribe [![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?original_referer=https%3A%2F%2Fpublish.twitter.com%2F&ref_src=twsrc%5Etfw&text=Publish%2FSubscribe%20JavaScript%20UMD%20package&tw_p=tweetbutton&url=https%3A%2F%2Fwww.npmjs.com%2Fpackage%2Fpublish-subscribe-js&via=shystrukk) #
-[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php) [![Gemnasium](https://img.shields.io/gemnasium/mathiasbynens/he.svg)](https://github.com/shystruk/publish-subscribe-js) [![Build Status](https://travis-ci.org/shystruk/publish-subscribe-js.svg?branch=master)](https://travis-ci.org/shystruk/publish-subscribe-js) [![npm version](https://badge.fury.io/js/publish-subscribe-js.svg)](https://badge.fury.io/js/publish-subscribe-js)
+[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php) [![Build Status](https://travis-ci.org/shystruk/publish-subscribe-js.svg?branch=master)](https://travis-ci.org/shystruk/publish-subscribe-js) [![npm version](https://badge.fury.io/js/publish-subscribe-js.svg)](https://badge.fury.io/js/publish-subscribe-js)
 
 Publish/Subscribe UMD package
 
