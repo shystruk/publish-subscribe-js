@@ -1,38 +1,38 @@
 {
-  "name": "publish-subscribe-js",
-  "version": "1.1.4",
-  "description": "Publish/Subscribe UMD package",
-  "main": "./src/PublishSubscribe.js",
-  "directories": {
-    "src": "src"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/shystruk/publish-subscribe-js"
-  },
-  "scripts": {
-    "report-coverage": "cat ./coverage/lcov.info | codecov",
-    "coverage": "nyc report --reporter=lcov",
-    "test": "nyc ava && npm run coverage"
-  },
-  "keywords": [
-    "publish",
-    "publisher",
-    "subscribe",
-    "subscriber",
-    "pattern",
-    "publish-subscribe",
-    "publish/subscribe"
-  ],
-  "author": {
-    "name": "Vasyl Stokolosa",
-    "email": "v.stokol@gmail.com",
-    "url": "https://github.com/shystruk"
-  },
-  "license": "MIT",
-  "devDependencies": {
-    "ava": "^0.24.0",
-    "codecov.io": "^0.1.6",
-    "nyc": "^11.3.0"
-  }
+	"name": "publish-subscribe-js",
+	"version": "1.1.4",
+	"description": "Publish/Subscribe UMD package",
+	"main": "./src/PublishSubscribe.js",
+	"directories": {
+		"src": "src"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/shystruk/publish-subscribe-js"
+	},
+	"scripts": {
+		"report-coverage": "cat ./coverage/lcov.info | codecov",
+		"coverage": "nyc report --reporter=lcov",
+		"test": "nyc ava && npm run coverage"
+	},
+	"keywords": [
+		"publish",
+		"publisher",
+		"subscribe",
+		"subscriber",
+		"pattern",
+		"publish-subscribe",
+		"publish/subscribe"
+	],
+	"author": {
+		"name": "Vasyl Stokolosa",
+		"email": "v.stokol@gmail.com",
+		"url": "https://github.com/shystruk"
+	},
+	"license": "MIT",
+	"devDependencies": {
+		"ava": "^0.24.0",
+		"codecov.io": "^0.1.6",
+		"nyc": "^11.3.0"
+	}
 }
