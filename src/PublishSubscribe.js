@@ -25,7 +25,7 @@
 	}
 })(function () {
 	return {
-		key: 0,
+		key: 1,
 		subscribers: {},
 
 		/**
@@ -74,7 +74,7 @@
 
 		unsubscribeAll: function () {
 			this.subscribers = {};
-			this.key = 0;
+			this.key = 1;
 		}
 	};
 });
