@@ -7,10 +7,10 @@ Publish/Subscribe UMD package
 
 ## Getting Publish/Subscribe ##
 #### npm
-`npm install --save publish-subscribe-js`
+`npm install publish-subscribe-js`
 
 #### yarn
-`yarn add publish-subscribe-js --save`
+`yarn add publish-subscribe-js`
 
 ## Example ##
 ```javascript
